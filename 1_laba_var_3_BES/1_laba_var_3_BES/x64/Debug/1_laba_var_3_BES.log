@@ -1,0 +1,6 @@
+﻿  1_laba_var_3_BES.cpp
+C:\Users\admin\source\repos\1_laba_var_3_BES\1_laba_var_3_BES\1_laba_var_3_BES.cpp(28,48): warning C4474: 'fprintf' : too many arguments passed for format string
+      C:\Users\admin\source\repos\1_laba_var_3_BES\1_laba_var_3_BES\1_laba_var_3_BES.cpp(28,48):
+      placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  
+  1_laba_var_3_BES.vcxproj -> C:\Users\admin\source\repos\1_laba_var_3_BES\x64\Debug\1_laba_var_3_BES.exe
