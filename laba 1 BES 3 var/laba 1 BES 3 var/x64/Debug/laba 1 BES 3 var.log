@@ -1,0 +1,10 @@
+﻿  glew.c
+  laba 1 BES 3 var.cpp
+C:\Users\admin\source\repos\laba 1 BES 3 var\laba 1 BES 3 var\laba 1 BES 3 var.cpp(28,54): warning C4474: 'fprintf' : too many arguments passed for format string
+      C:\Users\admin\source\repos\laba 1 BES 3 var\laba 1 BES 3 var\laba 1 BES 3 var.cpp(28,54):
+      placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  
+     Creating library C:\Users\admin\source\repos\laba 1 BES 3 var\x64\Debug\laba 1 BES 3 var.lib and object C:\Users\admin\source\repos\laba 1 BES 3 var\x64\Debug\laba 1 BES 3 var.exp
+LINK : warning LNK4217: symbol 'glewInit' defined in 'glew.obj' is imported by 'laba 1 BES 3 var.obj' in function 'main'
+LINK : warning LNK4217: symbol 'glewGetErrorString' defined in 'glew.obj' is imported by 'laba 1 BES 3 var.obj' in function 'main'
+  laba 1 BES 3 var.vcxproj -> C:\Users\admin\source\repos\laba 1 BES 3 var\x64\Debug\laba 1 BES 3 var.exe
